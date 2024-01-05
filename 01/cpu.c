@@ -19,3 +19,7 @@ int main(int argc, char *argv[])
 }
 lol
 lol
+<<<<<<< HEAD
+=======
+lol
+>>>>>>> b1
