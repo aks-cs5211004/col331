@@ -17,9 +17,13 @@ int main(int argc, char *argv[])
 	}
 	return 0;
 }
+<<<<<<< HEAD
 lol
 lol
 <<<<<<< HEAD
 =======
 lol
+>>>>>>> b1
+=======
+
 >>>>>>> b1
