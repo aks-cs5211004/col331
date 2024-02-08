@@ -67,3 +67,9 @@ This scheme works because writing blocks is **idempotent**. It is possible that
 the computer lost power just before clearing the log header block, i.e, the
 blocks were already written before crash. Rewriting them after reboot does not 
 matter since it writes the same content on the same block.
+
+
+Durability guaratntee after commit operatiion (4th point)
+
+circular log 
+if some blocks not written headnot uppadated rewrite again y=to home locations
